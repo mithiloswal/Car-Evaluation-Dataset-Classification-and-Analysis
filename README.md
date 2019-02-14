@@ -1,1 +1,2 @@
-# Car Evaluation Dataset Classification and Analysis
+# Car Evaluation Dataset Classification and Analysis <br />
+Assisted customers for buying used cars as per their requirements by identifying key features and implementing visualization, pre-processing, and classification analysis on the Car Evaluation Dataset by UC Irvine to build machine learning models using different classification algorithms in Python using Jupyter Notebook. Achieved various levels of accuracy for each of the algorithms employed, and compared the results obtained.
